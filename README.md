@@ -1,4 +1,4 @@
 # CSA_Latex
 ## Carry Save Adder research paper using Latex
 
-![alt text](https://www.researchgate.net/figure/Computation-Flow-of-Carry-Save-Adder_fig1_228892141)
+![alt text](https://github.com/Ratna04priya/CSA_Latex/blob/master/csa-adder.jpg)
